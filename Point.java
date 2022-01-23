@@ -1,6 +1,6 @@
 /**
  * Point class for passing x and y co-ordinates value and giving them index.
- * Authors @Amita Rajput and Jaskirat Kaur
+ * Author Jaskirat Kaur
  */
 public class Point {
 	
