@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *  ClosestPair Class to calculate minimum distance between two points
- * @authors Amita Rajput and Jaskirat kaur
+ * @author Jaskirat kaur
  *
  */
 public class ClosestPair {
